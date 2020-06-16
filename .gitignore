@@ -1,0 +1,6 @@
+.idea/
+xml
+*.xml
+stanza/.ipynb_checkpoints/stanza-checkpoint.ipynb
+.idea/*.xml
+
